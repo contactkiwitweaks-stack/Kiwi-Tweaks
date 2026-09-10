@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/contactkiwitweaks-stack/Kiwi-Tweaks/main/Kiwi%20Tweaking%20Utility%202.0.bat"><img src="https://img.shields.io/badge/Download-Utility%202.0%20(.bat)-2ecc71?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Download"></a>
-  <a href="https://kiwitweaks.com/"><img src="https://img.shields.io/badge/Website-kiwitweaks.vercel.app-00cec9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://kiwitweaks.com/"><img src="https://img.shields.io/badge/Website-kiwitweaks.com-00cec9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/contactkiwitweaks-stack/Kiwi-Tweaks/issues"><img src="https://img.shields.io/badge/Support-Report%20Issue-ff6b6b?style=for-the-badge&logo=github" alt="Report Issue"></a>
 </p>
 
