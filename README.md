@@ -4,7 +4,7 @@
 ### *Transparent Windows Latency, Performance & Gaming Optimization*
 
 <p align="center">
-  <a href="https://discord.gg/kiwitweaks"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/XKMC9Wd2JC"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Custom%20NC--ND-6c5ce7?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/contactkiwitweaks-stack/Kiwi-Tweaks/stargazers"><img src="https://img.shields.io/github/stars/contactkiwitweaks-stack/Kiwi-Tweaks?style=for-the-badge&color=ff9f43&logo=star&logoColor=white" alt="Stars"></a>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/contactkiwitweaks-stack/Kiwi-Tweaks/main/Kiwi%20Tweaking%20Utility%202.0.bat"><img src="https://img.shields.io/badge/Download-Utility%202.0%20(.bat)-2ecc71?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Download"></a>
-  <a href="https://kiwitweaks.vercel.app/"><img src="https://img.shields.io/badge/Website-kiwitweaks.vercel.app-00cec9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://kiwitweaks.com/"><img src="https://img.shields.io/badge/Website-kiwitweaks.vercel.app-00cec9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/contactkiwitweaks-stack/Kiwi-Tweaks/issues"><img src="https://img.shields.io/badge/Support-Report%20Issue-ff6b6b?style=for-the-badge&logo=github" alt="Report Issue"></a>
 </p>
 
