@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥝 Kiwi's Tweaking Utility 2.0
+# Kiwi's Tweaking Utility 2.0
 ### *Transparent Windows Latency, Performance & Gaming Optimization*
 
 <p align="center">
