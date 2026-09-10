@@ -4,7 +4,6 @@
 ### *Transparent Windows Latency, Performance & Gaming Optimization*
 
 <p align="center">
-  <a href="https://github.com/contactkiwitweaks-stack/Kiwi-Tweaks/releases"><img src="https://img.shields.io/badge/Release-2.0%20Official-00d2d3?style=for-the-badge&logo=github" alt="Release"></a>
   <a href="https://discord.gg/kiwitweaks"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Custom%20NC--ND-6c5ce7?style=for-the-badge" alt="License"></a>
